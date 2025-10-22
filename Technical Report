@@ -1,0 +1,104 @@
+Outline
+Introduction
+Story of Data
+Data Splitting
+Pre-Analysis
+In-Analysis
+Post-Analysis and Insights
+Data Visualizations & Charts
+Recommendations and Observations
+Conclusion
+References & Appendices
+
+1. Introduction
+The goal of this research was to understand how age, gender, education, and employment status influence anxiety, depression, and stress outcomes among respondents aged 18–74. The analysis also explored lifestyle factors such as sleep, substance use, and therapy attendance to uncover deeper behavioral trends.
+
+2. Story of Data
+The dataset, titled The Care Index 2024, contained 1,200 records collected from diverse demographics. Each record represented a respondent’s responses across key areas sleep hours, stress levels, education, therapy frequency, and family history of mental illness.
+
+This study reflects how data can give structure to emotional realities, helping us understand mental health through measurable patterns.
+
+
+3. Data Splitting and Preprocessing
+Independent variables:
+1. Age
+2. Gender
+3. Emplyment status
+4. Education level
+
+Dependent variables:
+1. Sleep hours
+2. Physical activities
+3. Social support
+4. Anxiety score
+5. Depression score
+6. Stress level
+7. Family history mental illness
+8. Chronic illness
+9. Medication use
+10. Therapy
+11. Meditation
+12. Substance use
+Columns appended - Age, Therapy, Family history mental illnesses, Chronic illnesses, and Meditation
+
+4. Pre-Analysis
+Before diving deep, I examined the distribution of key variables:
+
+Age groups were segmented into Gen Z, Millennials, Gen X, and Boomers.
+Gender representation showed near balance between male and female respondents.
+Education ranged from High School to PhD.
+This setup gave a clear foundation for meaningful insights.
+
+5. In-Analysis
+The analysis covered sleep patterns, therapy trends, stress levels, and family mental health history.
+Key metrics were computed across demographics to identify correlations and behavioral shifts.
+
+6. Post-Analysis & Insights
+6.1 Gen X recorded the highest sleep hours, while Gen Z had the least a likely result of digital lifestyle and work pressure.
+
+Women (569) attended therapy slightly more than men (520), showing increased emotional openness.
+PhD holders showed the highest stress levels academic intensity often links to elevated anxiety.
+Employed individuals (320) led in substance use, followed by students (310), confirming stress as a cross-environment challenge.
+(2%) of respondents had a family history of mental illness, underlining biological and environmental links.
+
+7. Data Visualizations & Charts
+
+The visuals used in this project included:
+
+Bar charts comparing stress levels by education
+
+Pie charts on therapy attendance by gender
+
+Stacked bars showing family illness by age and gender
+
+Bar Charts comparing substance used
+
+Column Charts comparing sleep hours by age
+
+Bar Charts comparing depression factor by age
+
+These visuals helped bring clarity to each variable and trend.
+
+8. Recommendations & Observations
+Targeted Mental Health Programs for Gen Z and PhD students to reduce digital stress and academic pressure.
+Workplace Wellness Initiatives for employed individuals facing high stress and substance exposure.
+Community Awareness Campaigns to normalize therapy and improve early detection.
+Preventive Monitoring for respondents with family history of mental illness.
+
+9. Conclusion
+Mental health isn’t one-size-fits-all its shaped by age, lifestyle, and circumstance.
+Through data, we can identify hidden patterns, start meaningful conversations, and design targeted solutions that truly matter.
+
+10. References & Appendices
+Dataset: The Care Index: Anxiety and Depression Dataset (2024)
+
+Source: Kaggle [CSV Format]
+Institution: Vephla University
+Tools Used: Excel [Analysis, Dashboard, Pivot Table and Charts].
+
+
+
+
+
+
+
